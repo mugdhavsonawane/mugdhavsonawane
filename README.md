@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mugdhavsonawane">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Mugdha%F0%9F%91%81%EF%B8%8F%F0%9F%91%84%F0%9F%91%81%EF%B8%8F" alt="Hello! I&#39;m Mugdha👁️👄👁️" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=80EF80&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Mugdha%F0%9F%91%81%EF%B8%8F%F0%9F%91%84%F0%9F%91%81%EF%B8%8F" alt="Hello! I&#39;m Mugdha👁️👄👁️" />
   </a>
 </p>
 
