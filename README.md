@@ -16,7 +16,7 @@
 - &nbsp;Pronouns: **she, her, hers**  
 - &nbsp;Fun fact: My debugging rubber duck is my dog, **✨Bunny✨**
 
-<hr width="100%">
+---
 
 ### 🛠️ Tech Stack
 #### 🌐 Languages
@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-<hr width="100%">
+---
 
 ### 🔗 Connect With Me
 <p align="left">
@@ -75,7 +75,7 @@
   <a href="mailto:mugdhavsonawane@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<hr width="100%">
+---
 
 ### 📊 GitHub Stats
 <p align="center">
