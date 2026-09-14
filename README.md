@@ -14,7 +14,7 @@
 - &nbsp;I'm learning **Snowflake.**  
 - &nbsp;I'm looking to collaborate on **open-source.**  
 - &nbsp;Pronouns: **she, her, hers**  
-- &nbsp;Fun fact: **My debugging rubber duck is my dog, Bunny**
+- &nbsp;Fun fact: My debugging rubber duck is my dog, **✨Bunny✨**
 
 ### 🛠️ Tech Stack
 
