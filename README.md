@@ -15,7 +15,7 @@
 - &nbsp;I'm looking to collaborate on **open-source.**  
 - &nbsp;Pronouns: **she, her, hers**  
 - &nbsp;Fun fact: My debugging rubber duck is my dog, **✨Bunny✨**
-
+<hr width="100%">
 ### 🛠️ Tech Stack
 
 #### 🌐 Languages
@@ -64,7 +64,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
-
+<hr width="100%">
 ### 🔗 Connect With Me
 
 <p align="left">
