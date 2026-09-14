@@ -14,7 +14,7 @@
 - &nbsp;I'm learning **Snowflake**  
 - &nbsp;I'm looking to collaborate on **open-source**  
 - &nbsp;Pronouns: **she, her, hers**  
-- &nbsp;Fun fact: **<-- I have a cute, hairy dog**
+- &nbsp;Fun fact: **I have a cute, hairy dog**
 
 ### 🛠️ Tech Stack
 
