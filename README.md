@@ -10,11 +10,11 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **AccessOps, a FastAPI RBAC and access-governance backend.**  
-🌱 &nbsp;I'm currently learning **Snowflake**  
-👯 &nbsp;I'm looking to collaborate on **open-source**  
-😄 &nbsp;Pronouns: **she, her, hers**  
-⚡ &nbsp;Fun fact: **I have a cute, hairy dog**
+- &nbsp;I'm currently working on **AccessOps, a FastAPI RBAC and access-governance backend.**  
+- &nbsp;I'm currently learning **Snowflake**  
+- &nbsp;I'm looking to collaborate on **open-source**  
+- &nbsp;Pronouns: **she, her, hers**  
+- &nbsp;Fun fact: **I have a cute, hairy dog**
 
 ### 🛠️ Tech Stack
 
