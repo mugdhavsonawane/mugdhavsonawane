@@ -71,7 +71,7 @@
 
 <p align="left">
   <a href="https://www.credly.com/badges/211248fa-5b1c-4214-a38b-87216c3be47b" target="_blank">
-    <img src="airflow-3-badge.png" alt="Apache Airflow 3 Certification by Astronomer" width="130" />
+    <img src="astronomer-certification-for-apache-airflow-3-funda.png" alt="Apache Airflow 3 Certification by Astronomer" width="130" />
   </a>
 </p>
 
