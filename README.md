@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - &nbsp;I'm working on **AccessOps, a FastAPI RBAC and access-governance backend.**  
-- &nbsp;I'm learning **Snowflake.**  
+- &nbsp;I'm learning **AWS Solutions Architect Associate** certificate. 
 - &nbsp;I'm looking to collaborate on **open-source.**  
 - &nbsp;Pronouns: **she, her, hers**  
 - &nbsp;Fun fact: My debugging rubber duck is my dog, **✨Bunny✨**
