@@ -66,6 +66,15 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
+
+### 🏅 Certifications
+
+<p align="left">
+  <a href="https://www.credly.com/badges/211248fa-5b1c-4214-a38b-87216c3be47b" target="_blank">
+    <img src="airflow-3-badge.png" alt="Apache Airflow 3 Certification by Astronomer" width="130" />
+  </a>
+</p>
+
 ### 📊 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=mugdhavsonawane&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true" alt="stats" />
